@@ -191,10 +191,10 @@
               </div>
 
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-mail ui-btn-icon-left buttons-radius" href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact US</a></div>
+					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-mail ui-btn-icon-left buttons-radius" href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact Us</a></div>
 				</div>				   
 		  </div>
-		        <p> Welcome to Hair Esteem, your premier luxury hair salon in Naples, FL since 1992. With a professional and experienced staff, we can cater to your individual needs whether you’re looking for a simple haircut or an invigorating pedicure. Additionally, we sell supplies in our salon to help you achieve that professional look at home. </p>
+		        <p> Welcome to Hair Esteem, your premier luxury hair salon in Naples, FL since 1992. With a professional and experienced staff, we can cater to your individual needs whether you are looking for a simple haircut or an invigorating pedicure. Additionally, we sell supplies in our salon to help you achieve that professional look at home. </p>
 		 
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
@@ -208,7 +208,7 @@
                             <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">About</a></li>
 							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Services</a></li>
                             <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Testimonials</a></li>
-							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
+							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact Us</a></li>
 						</ul>
 					</section>
 					<p> This is only a <strong>PREVIEW</strong> version of Your Mobile Website </p>
